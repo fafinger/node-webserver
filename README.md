@@ -1,2 +1,2 @@
-# L2C_node-webserver
+# node-webserver
 Node Udemy web course from @andrewjmead
